@@ -16,8 +16,7 @@
 
 <br>
 
-Passionate about soccer, programming, games, books, and Taylor Swift.
-
+Passionate about soccer, programming, games, books, and Taylor Swift. Also, I am jedi, like my father before me!
 
 
 
