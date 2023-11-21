@@ -1,5 +1,5 @@
 ### Hey there! 👋
-<b>I'm Ana Luiza - </b>I'm a front-end developer and computer science student. I'm interested in web development, data science and helping thriving online communities. I want to make a real diference in this world!
+<b>I'm Ana Luiza (she/her) - </b>I'm a front-end developer and computer science student. I'm interested in web development, data science and helping thriving online communities. I want to make a real diference in this world!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/analuizalemos/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-lemos-58485b25b/)
