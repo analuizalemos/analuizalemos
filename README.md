@@ -10,7 +10,7 @@ May the code be with you! ⭐👩‍💻
     <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=analuizalemos&theme=dark&layout=compact>
 </div>
 
-### Currently studying 
+### Skills
 
 <div>
     <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
